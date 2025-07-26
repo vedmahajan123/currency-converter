@@ -7,16 +7,9 @@ It uses real-time exchange rates via the Frankfurter API to convert between glob
 
 🌍 Real-time exchange rates using API
 
-💸 Currency signs (like ₹, $, €, ¥) shown with output
-
 🌓 Clean dark-themed interface
 
-🧑‍💻 Created by Ved Mahajan
-
-📸 Preview
-(Screenshot or live demo link can go here)
-
-🛠️ USED
+🛠️ USED:
 HTML – Page structure
 
 CSS – Styling with a dark modern theme
